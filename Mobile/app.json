@@ -1,0 +1,44 @@
+{
+  "expo": {
+    "name": "PickApp",
+    "slug": "Mobile",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icons/logoPickApp.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "config": {
+        "googleMaps": {
+          "apiKey": "AIzaSyA9dQ-fb5qZJB8an3FkPXW9yw8JhVQa8UE"
+        }
+      },
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icons/logoPickApp.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.adamkoot.Mobile"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "3fc8bde6-6eb2-408d-9943-b21301f3b34e"
+      }
+    }
+  }
+}

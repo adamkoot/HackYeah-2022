@@ -1,0 +1,21 @@
+[
+  {
+    "drinkables": "../assets/icons/drinkables.png",
+
+    "bread": "../assets/icons/bread.png",
+
+    "dairy": "../assets/icons/dairy.png",
+
+    "grains": "../assets/icons/grains.png",
+
+    "meat": "../assets/icons/meat.png",
+
+    "oils": "../assets/icons/oils.png",
+
+    "fruits": "../assets/icons/fruits.png",
+
+    "sweets": "../assets/icons/sweets.png",
+
+    "manyCat": "../assets/icons/manyCat.png"
+  }
+]
