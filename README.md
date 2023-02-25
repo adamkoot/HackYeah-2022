@@ -8,7 +8,7 @@ Project created for  the **HackYeah 2022**
 
 ## How to run the application in developer mode?
 
-1. To run the application in developer mode **pickApp** must be downloaded [node.js](https://nodejs.org/en/) and source code from repository (https://github.com/pablodbm/HackYeah-2022.git)
+1. To run the application in developer mode **pickApp** must be downloaded [node.js](https://nodejs.org/en/) and source code from repository (https://github.com/adamkoot/HackYeah-2022.git)
 
 2. Install expo on your mobile OS
 >[android](https://play.google.com/store/apps/details?id=host.exp.exponent&hl=pl&gl=US)  
@@ -22,9 +22,9 @@ Project created for  the **HackYeah 2022**
 
 ## Team members
 
+***Adam Kot***  
 ***Maksymilian Markow***  
 ***Mateusz Panuś***  
 ***Paweł Słota***  
-***Adam Kot***  
 ***Kacper Przełożny***  
 
